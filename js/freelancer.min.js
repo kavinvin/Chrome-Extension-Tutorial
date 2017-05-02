@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Chrome-Extension-Tutorial v0.1 (http://seaidem.me)
+ * Start Bootstrap - Chrome-Extension-Tutorial v0.0.1 (http://seaidem.me)
  * Copyright 2013-2017 ITKMITL students
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
