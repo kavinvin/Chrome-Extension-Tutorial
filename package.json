@@ -1,9 +1,19 @@
 {
-  "name": "freelancer",
-  "title": "Freelancer",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
+  "name": "Chrome-Extension-Tutorial",
+  "title": "Chrome-Extension-Tutorial",
+  "version": "0.1",
+  "homepage": "http://seaidem.me",
+  "author": "ITKMITL students",
+  "contributors": [
+    {
+      "name": "Kavin Ruengprateepsang",
+      "email": "59070009@it.kmitl.ac.th"
+    },
+    {
+      "name": "Kasidis Chaowvasin",
+      "email": "59070011@it.kmitl.ac.th"
+    }
+  ],
   "license": {
     "type": "MIT",
     "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
@@ -23,6 +33,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+    "url": "https://github.com/kavinvins/Chrome-Extension-Tutorial.git"
   }
 }
